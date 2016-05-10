@@ -6,5 +6,6 @@ automated network labels for systermatically interpreting networks in functional
 ## Structure
 
 - ./masks - Prelimarinary network masks (currently only dervied using neurosynth) 
+
 - ./interactiveFigures/ - .html of plot.ly figures used to display network examples. 
-- 
+
