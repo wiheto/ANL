@@ -2,6 +2,7 @@
 
 automated network labels for systermatically interpreting networks in functional neuroimaging results 
 
+In its present form, it is only masks for networks are available. In the near future, these will be queryable.  
 
 ## Structure
 
